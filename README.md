@@ -1,1 +1,1 @@
-[Watch the video](Elibrary/sample.mp4)
+[Watch the video](/Elibrary/sample.mp4)
